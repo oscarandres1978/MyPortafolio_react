@@ -13,22 +13,23 @@ export const products = [
     },
     {
       id: 3,
-      img: "../src/img/postales.png",
-      link: "http://lama.dev",
+      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2Farrenda.png?alt=media&token=4e1297d2-7302-4ab7-af61-b4bcb6da7e90",
+      link: "https://arrendafincas.web.app/",
+      titulo:"Proyecto React y node.Js buscar fincas para alquiler email: sergioivan@gmail.com password:123456"
     },
     {
       id: 4,
-      img: "",
-      link: "http://lama.dev",
+      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2Freino.png?alt=media&token=1a99fe20-ae66-48de-b051-7e165dfaeac9",
+      titulo: "Pagina esotérica realizada para cliente"
     },
     {
       id: 5,
-      img: "",
-      link: "http://lama.dev",
+      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2Fshop.png?alt=media&token=55f8eabe-5a68-49ad-a981-b6c533a0d00d",
+      titulo:"Desarrollador front-end en Kiero pago"
     },
     {
       id: 6,
-      img: "",
-      link: "http://lama.dev",
+      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2Fgetex.png?alt=media&token=cfa15967-1a22-4739-aebb-3bfcf394b845",
+      titulo: "Pagina para encuentas sociodemograficas realizada para cliente"
     },
   ];
