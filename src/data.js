@@ -1,17 +1,19 @@
 export const products = [
     {
       id: 1,
-      img: "https://previews.123rf.com/images/beatpavel/beatpavel1609/beatpavel160900002/66663291-conceptual-vectorial-plano-ilustraci%C3%B3n-de-un-hombre-con-el-port%C3%A1til-representando-sus-conocimientos-.jpg",
-      link: "http://lama.dev",
+      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2F1637523993502.png?alt=media&token=6b3874c4-536e-4761-a700-6d549fa86a7b",
+      link: "http://postales.oalweb.com/",
+      titulo:"Proyecto React de Postales para editar y descargar la imagen"
     },
     {
       id: 2,
-      img: "https://s3.amazonaws.com/thumbnails.venngage.com/template/ee3220ef-6fab-434b-8c81-0977aba42a37.png",
-      link: "http://lama.dev",
+      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2Fscreencapture-react-shop-oalweb-2021-11-21-21_45_21.png?alt=media&token=b37c3c18-65d6-4e10-b0db-2bd6d645df58",
+      link: "http://react-shop.oalweb.com/",
+      titulo:"Proyecto React de tienda online con carrito de compras consumiendo una API"
     },
     {
       id: 3,
-      img: "",
+      img: "../src/img/postales.png",
       link: "http://lama.dev",
     },
     {

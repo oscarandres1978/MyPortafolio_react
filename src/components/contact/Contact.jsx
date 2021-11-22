@@ -1,4 +1,4 @@
-import "./contact.css";
+import "./contac.css";
 import Phone from "../../img/phone.png";
 import Addres from "../../img/address.png";
 import Email from "../../img/email.png";

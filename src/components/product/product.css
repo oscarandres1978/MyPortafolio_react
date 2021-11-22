@@ -16,6 +16,8 @@
     z-index: 2;
   }
   
+
+  
   .p-circle {
     width: 6px;
     height: 6px;
@@ -30,7 +32,7 @@
   }
   
   .p:hover .p-img {
-    transform: translateY(-100%);
+    transform: translateY(-65%);
   }
 
   @media screen and (max-width: 480px){
