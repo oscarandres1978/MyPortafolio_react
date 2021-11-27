@@ -90,11 +90,46 @@
         text-align: center;
         height: 100%;
     }
+   
 
     .i-desc{
         display: none;
     }
     .i-name{
         font-size: 40px;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 800px){
+    .i{
+        flex-direction: column;
+    }
+
+    .i-left-wrapper{
+        padding: 10px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 100%;
+    }
+
+    .i-desc{
+        display: none;
+    }
+    .i-intro{
+    font-size: 50px;
+    font-weight: 400;
+}
+    .i-name{
+        font-size: 60px;
+    }
+    .i-title-item{
+        height: 60px;
+        font-size: 40px;
+    }
+    .i-img{
+        width: 60%;
+        height: 100%;
+        left: 120px;
     }
 }

@@ -88,6 +88,15 @@ button{
     width: 100px;
 }
 
+@media screen and (max-width: 360px) {
+    input{
+        width: 100%;
+        height: 15px;
+        margin: 0px;
+        margin-left: 0;
+    }
+}
+
 @media screen and (max-width: 480px){
     .c-bg{
        display: none;
@@ -135,9 +144,23 @@ button{
         margin-top: 4px;
         
     }
-   
-   
-    
+}
+@media screen and (min-width: 481px) and (max-width: 800px){
+    input{
+        width: 100%;
+        height: 25px;
+        margin: 10px;
+        margin-left: 0;
+    }
+    .c-icon{
+        width: 40px;
+        height: 40px;
+        margin-top: 20px;
+    }
+    .c-info-item{
+       
+        width: 80%;
+    }
 }
 
 
