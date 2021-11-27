@@ -31,20 +31,24 @@ const Contact = () =>{
                     <h1 className="c-title">¡Contáctame aquí!</h1>
                     <div className="c-info">
                         <div className="c-info-item">
+                            <a className="tel" href="tel:+573158862124">
                             <img
                                 src={Phone}
                                 alt=""
                                 className="c-icon"
                             />
-                            +57 3158862124
+                            </a>
+                            (+57) 3158862124
                         </div>
                         <div className="c-info-item">
+                            <a className="linked" href="https://www.linkedin.com/in/oscaralopez" target="_blank" rel="noreferrer">
                             <img
                                 src={Linkedin}
                                 alt=""
                                 className="c-icon"
                             />
-                           www.linkedin.com/in/oscaralopez
+                            </a>
+                           @oscaralopez
                         </div>
                         <div className="c-info-item">
                             <img 
@@ -67,11 +71,11 @@ const Contact = () =>{
                 </div>
                 <div className="c-right">
                     <p className="c-desc">
-                        <b>¡Déjame tus datos aquí!  </b> para contactarme con usted.
+                        <b>¡Déjame tus datos aquí!</b> para poder trabajar juntos.
                     </p>
                     <form ref={formRef} onSubmit={handleSubmit}>
                         <input style={{backgroundColor: darkMode && "#333" }} type="text" placeholder="Nombres" name="user_name" />
-                        <input style={{backgroundColor: darkMode && "#333" }} type="text" placeholder="Tema" name="user_subject" />
+                        <input style={{backgroundColor: darkMode && "#333" }} type="text" placeholder="Asunto" name="user_subject" />
                         <input style={{backgroundColor: darkMode && "#333" }} type="text" placeholder="Email" name="user_email" />
                         <textarea style={{backgroundColor: darkMode && "#333" }}  rows="S" placeholder="Mensaje" name="message"/>
                         <button>Enviar</button>

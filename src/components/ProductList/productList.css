@@ -34,8 +34,15 @@
     .pl-texts {
       width: 100%;
     }
+
+    .pl-title {
+      font-size: 30px;
+      font-weight: 600;
+      margin-top: 130px;
+    }
   
     .pl-desc {
       display: none;
     }
+    
   }

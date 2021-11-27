@@ -1,6 +1,6 @@
 import "./about.css";
 import Award from "../../img/cesde.jpg";
-import Oscar from "../../img/oscar2.jpg";
+import Oscar from "../../img/oscar.jpg";
 import Platzi from "../../img/platzi.JPG";
 
 const About = () =>{
@@ -16,15 +16,16 @@ const About = () =>{
                 />
                 </div>
             </div>
-            <div className="a-right">
+            <div className="a-right"><br/>
         <h1 className="a-title">Acerca de mí</h1>
         <p className="a-sub">
-          Oscar Andrés Lopez Velásquez.
+          Oscar Andrés López Velásquez.
         </p>
         <p className="a-desc">
           Soy tecnólogo y técnico en desarrollo de software.
+          Antes de ingresar al mundo web, obtuve experiencia de 12 años en el sector financiero en procesos operativos.
           <br/>
-          Otros programas realizados: <br/>
+          Estudios web: <br/>
           Curso de Front-end Developer, Curso de React practico, Curso de Asincronismo JavaScript, Curso de EcmaScript6, <br/>
           Apasionado del desarrollo web, por eso estoy enfocado en aprender y ejecutar las herramientas más
           demandadas en la parte del front-end como:  React.Js, Angular, Vue y complementar en el back-end 
