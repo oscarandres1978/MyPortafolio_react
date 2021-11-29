@@ -14,7 +14,7 @@ export const products = [
     {
       id: 3,
       img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2Farrenda.png?alt=media&token=4e1297d2-7302-4ab7-af61-b4bcb6da7e90",
-      link: "https://arrendafincas.web.app/",
+      link: "http://arrendafincas.oalweb.com/auth/login",
       titulo:"Proyecto buscador fincas"
     },
     {
