@@ -26,7 +26,7 @@ const About = () =>{
           Antes de ingresar al mundo web, obtuve experiencia de 12 años en el sector financiero en procesos operativos.
           <br/>
           Estudios web: <br/>
-          Curso de Front-end Developer, Curso de React practico, Curso de Asincronismo JavaScript, Curso de EcmaScript6, <br/>
+          Curso de Front-end Developer, Curso de React práctico, Curso de Asincronismo JavaScript, Curso de EcmaScript6. <br/>
           Apasionado del desarrollo web, por eso estoy enfocado en aprender y ejecutar las herramientas más
           demandadas en la parte del front-end como:  React.Js, Angular, Vue y complementar en el back-end 
           con Node.Js para convertirme en un futuro en Desarrollador Full-Stack.
