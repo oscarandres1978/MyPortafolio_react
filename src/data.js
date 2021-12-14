@@ -1,9 +1,9 @@
 export const products = [
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2F1637523993502.png?alt=media&token=6b3874c4-536e-4761-a700-6d549fa86a7b",
-      link: "http://postales.oalweb.com/",
-      titulo:"Proyecto Postales"
+      img: "https://firebasestorage.googleapis.com/v0/b/portafolio-2916d.appspot.com/o/imagenes%2Fscreencapture-localhost-3000-2021-12-13-11_47_37.png?alt=media&token=ec5ef594-316e-4b74-a216-0a652d9cdcbb",
+      link: "http://gifs.oalweb.com/",
+      titulo:"Proyecto gifs",
     },
     {
       id: 2,
